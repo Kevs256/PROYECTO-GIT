@@ -3,3 +3,5 @@ esto se añadio en la rama master
 hola
 
 cosas nuevas en la rama de funciones
+
+estas cosas se hicieron aparte y nadie supo jiji
