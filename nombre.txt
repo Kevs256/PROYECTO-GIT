@@ -1,2 +1,5 @@
 hola 
 esto se añadio en la rama master
+hola
+
+cosas nuevas en la rama de funciones
